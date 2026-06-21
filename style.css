@@ -1,0 +1,43 @@
+/* Page styling */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+/* Form */
+
+form {
+    width: 400px;
+}
+
+/* Inputs */
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+/* Button styling */
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+/* Tooltip */
+
+.tooltip {
+    display: none;
+    font-size: 12px;
+    color: gray;
+}
+
+/* Feedback messages */
+
+.feedback-entry {
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+}
